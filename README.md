@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DumbAme
+- 👀 I’m interested in game development, which I have no experience in. 😊
+- 🌱 I’m currently learning all the things.
